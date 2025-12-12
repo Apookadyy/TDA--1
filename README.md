@@ -14,6 +14,7 @@ This all-in-one tool brings together essential daily utilities including:
 The project is simple, colorful, beginner-friendly, and easy to run on any system with Python installed.
 
 🚀 Features
+
 1. Calculator
 
 Supports standard arithmetic operations
@@ -23,6 +24,7 @@ Safe expression evaluation using Python ast
 Real-time result display
 
 Keyboard support (Enter = evaluate, Backspace = delete)
+
 
 2. Notes Manager
 
@@ -34,6 +36,7 @@ Notes saved automatically within a /notes folder
 
 Clean two-panel layout (notes list + editor)
 
+
 3. File Organizer
 
 Automatically organizes files in a selected folder
@@ -43,6 +46,7 @@ Groups files by extension (e.g., .jpg_files, .pdf_files)
 Log window showing all moved files
 
 Useful for cleaning Downloads or Project folders
+
 
 4. Timer Module
 
@@ -56,6 +60,7 @@ Start, Stop, Reset controls
 
 Auto-alert when finished
 
+
 ⏱️ Stopwatch
 
 Start/Stop/Reset
@@ -64,7 +69,9 @@ Precise real-time tracking
 
 Clean digital display
 
+
 📂 Project Structure
+
 ProductivitySuite/
 │── productivity_suite.py
 │── notes/
