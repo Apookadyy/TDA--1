@@ -1,4 +1,4 @@
-✨ Productivity Suite
+✨ Productivity Suite - A python Project 
 
 A desktop-based productivity application built using Python (Tkinter).
 This all-in-one tool brings together essential daily utilities including:
